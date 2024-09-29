@@ -56,7 +56,7 @@
 
 |Visitor    |  Documentation |  
 | :---    |  :---:    |  
-|Automne 2024   | [présentation](./2024/presentation/visitor.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2024/qcm/visitorQcm.pdf) - [fiche résumé](./2024/resume/visitorResume.pdf)|
+|Automne 2024   | [présentation](./2024/presentation/visitor.pdf)  - [live_coding](https://www.youtube.com/watch?v=5OFwM5sv07M) - [QCM](./2024/qcm/visitorQcm.pdf) - [fiche résumé](./2024/resume/visitorResume.pdf)|
 
 ## Autres
 

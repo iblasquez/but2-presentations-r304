@@ -25,7 +25,7 @@
 
 | Composite   |  Documentation |  
 | :---    |  :---:    |  
-|Automne 2024   | [présentation](./2024/presentation/composite.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2024/qcm/compositeQcm.pdf) - [fiche résumé](./2024/resume/compositeResume.pdf)|
+|Automne 2024   | [présentation](./2024/presentation/composite.pdf)  - [live_coding](https://youtu.be/fqycG1CbzzU) - [QCM](https://kahoot.it/?pin=8917731&refer_method=link) - [fiche résumé](./2024/resume/compositeResume.pdf)|
 
 | Decorator   |  Documentation |  
 | :---    |  :---:    |  

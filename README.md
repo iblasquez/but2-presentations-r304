@@ -48,7 +48,7 @@
 
 | State    |  Documentation |  
 | :---    |  :---:    |  
-|Automne 2024   | [présentation](./2024/presentation/state.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2024/qcm/stateQcm.pdf) - [fiche résumé](./2024/resume/sateResume.pdf)|
+|Automne 2024   | [présentation](./2024/presentation/state.pdf)  - [live_coding](https://www.youtube.com/watch?v=c78Uzo8vYwI) - [QCM](./2024/qcm/stateQcm.pdf) - [fiche résumé](./2024/resume/stateResume.pdf)|
 
 | Strategy   |  Documentation |  
 | :---    |  :---:    |

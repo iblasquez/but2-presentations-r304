@@ -52,7 +52,7 @@
 
 | Strategy   |  Documentation |  
 | :---    |  :---:    |
-|Automne 2024   | [présentation](./2024/presentation/strategy.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2024/qcm/strategyQcm.pdf) - [fiche résumé](./2024/resume/strategyResume.pdf)|
+|Automne 2024   | [présentation](./2024/presentation/strategy.pdf)  - [live_coding](https://youtu.be/AKBGRT1PBaA) - [QCM](./2024/qcm/strategyQcm.pdf) - [fiche résumé](./2024/resume/strategyResume.pdf)|
 
 |Visitor    |  Documentation |  
 | :---    |  :---:    |  

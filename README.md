@@ -62,7 +62,7 @@
 
 | Value Object - Entity -  Agrégat |  Documentation |  
 | :---      |  :---:    |  
-|Automne 2024   | [présentation](./2024/presentation/DDDTechnique.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2024/qcm/DDDTechniqueQcm.pdf) - [fiche résumé](./2024/resume/DDDTechniqueResume.pdf)|
+|Automne 2024   | [présentation](./2024/presentation/DDDTechnique.pdf)  - [live_coding](https://youtu.be/_9pvESpzz50) - [QCM](./2024/qcm/DDDTechniqueQcm.pdf) - [fiche résumé](./2024/resume/DDDTechniqueResume.pdf)|
 
 | Null pour les nuls  |  Documentation |  
 | :---      |  :---:    |

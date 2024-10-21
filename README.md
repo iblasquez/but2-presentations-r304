@@ -70,7 +70,7 @@
 
 | Vers un code immutable (pourquoi ? comment ?) |  Documentation |  
 | :---           |  :---:    |  
-|Automne 2024   | [présentation](./2024/presentation/immutable.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2024/qcm/immutableQcm.pdf) - [fiche résumé](./2024/resume/immutableResume.pdf)|
+|Automne 2024   | [présentation](./2024/presentation/immutable.pdf)  - [live_coding](https://www.youtube.com/watch?v=dl6xjPjFgeM) - [QCM](./2024/qcm/immutableQcm.pdf) - [fiche résumé](./2024/resume/immutableResume.pdf)|
 
 <!-- 
 | Design			|  Documentation |  

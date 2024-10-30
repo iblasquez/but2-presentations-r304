@@ -66,7 +66,7 @@
 
 | Null pour les nuls  |  Documentation |  
 | :---      |  :---:    |
-|Automne 2024   | [présentation](./2024/presentation/null.pdf)  - [live_coding](lhttps://www.youtube.com/watch?v=ONVoQvROG5s) - [QCM](./2024/qcm/nullQcm.pdf) - [fiche résumé](./2024/resume/nullResume.pdf)|
+|Automne 2024   | [présentation](./2024/presentation/null.pdf)  - [live_coding](https://www.youtube.com/watch?v=ONVoQvROG5s) - [QCM](./2024/qcm/nullQcm.pdf) - [fiche résumé](./2024/resume/nullResume.pdf)|
 
 | Vers un code immutable (pourquoi ? comment ?) |  Documentation |  
 | :---           |  :---:    |  

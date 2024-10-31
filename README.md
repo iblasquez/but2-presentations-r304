@@ -40,7 +40,7 @@
 
 | Command   |  Documentation |  
 | :---    |  :---:    |  
-|Automne 2024   | [présentation](./2024/presentation/command.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2024/qcm/commandQcm.pdf) - [fiche résumé](./2024/resume/commandResume.pdf)|
+|Automne 2024   | [présentation](./2024/presentation/command.pdf)  - [live_coding](https://youtu.be/qAG1jGon5Z8?si=gt5SrPc2MkfZMEvv) - [QCM](./2024/qcm/commandQcm.pdf) - [fiche résumé](./2024/resume/commandResume.pdf)|
 
 | Observer   |  Documentation |  
 | :---    |  :---:   |  

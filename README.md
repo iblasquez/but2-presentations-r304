@@ -19,7 +19,7 @@
 
 ### Patrons de structure (GoF)
 
-| Adapter    |  Documentation |  
+| Adapter/Facade    |  Documentation |  
 | :---    |  :---:    |  
 |Automne 2024   | [présentation](./2024/presentation/adapter.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2024/qcm/adapterQcm.pdf) - [fiche résumé](./2024/resume/adapterResume.pdf)|
 
@@ -30,11 +30,6 @@
 | Decorator   |  Documentation |  
 | :---    |  :---:    |  
 |Automne 2024   | [présentation](./2024/presentation/decorator.pdf)  - [live_coding](https://youtu.be/sgY1kBWwFQg) - [QCM](./2024/qcm/decoratorQcm.pdf) - [fiche résumé](./2024/resume/decoratorResume.pdf)|
-
-| Facade   |  Documentation |  
-| :---    |  :---:    |  
-|Automne 2024   | [présentation](./2024/presentation/facade.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2024/qcm/facadeQcm.pdf) - [fiche résumé](./2024/resume/facadeResume.pdf)|
-
 
 ### Patrons de comportement (GoF)
 

@@ -21,7 +21,7 @@
 
 | Adapter/Facade    |  Documentation |  
 | :---    |  :---:    |  
-|Automne 2024   | [présentation](./2024/presentation/adapter.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2024/qcm/adapterQcm.pdf) - [fiche résumé](./2024/resume/adapterResume.pdf)|
+|Automne 2024   | [présentation](./2024/presentation/adapter.pdf)  - [live_coding](https://youtu.be/JyvRHXxQMh8?si=F9rRlsutF3N6uaHS​) - [QCM](./2024/qcm/adapterQcm.pdf) - [fiche résumé](./2024/resume/adapterResume.pdf)|
 
 | Composite   |  Documentation |  
 | :---    |  :---:    |  

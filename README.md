@@ -11,61 +11,82 @@
 
 | Abstract Factory  |  Documentation |  
 | :---    |  :---:     |  
+|Automne 2025   | [présentation](./2025/presentation/abstractFactory.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2025/qcm/abstractFactoryQcm.pdf) - [fiche résumé](./2025/resume/abstractFactoryResume.pdf)|  
 |Automne 2024   | [présentation](./2024/presentation/abstractFactory.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2024/qcm/abstractFactoryQcm.pdf) - [fiche résumé](./2024/resume/abstractFactoryResume.pdf)|
 
 | Builder    |  Documentation |  
 | :---    |  :---:    |
+|Automne 2025   | [présentation](./2025/presentation/builder.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2025/qcm/builderQcm.pdf) - [fiche résumé](./2025/resume/builderResume.pdf)|  
 |Automne 2024   | [présentation](./2024/presentation/builder.pdf)  - [live_coding](https://www.youtube.com/watch?v=fyB9his5rGM) - [QCM](./2024/qcm/builderQcm.pdf) - [fiche résumé](./2024/resume/builderResume.pdf)|  
 
 ### Patrons de structure (GoF)
 
 | Adapter/Facade    |  Documentation |  
-| :---    |  :---:    |  
+| :---    |  :---:    |
+|Automne 2025   | [présentation](./2025/presentation/adapter.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2025/qcm/adapterQcm.pdf) - [fiche résumé](./2025/resume/adapterResume.pdf)|
 |Automne 2024   | [présentation](./2024/presentation/adapter.pdf)  - [live_coding](https://youtu.be/JyvRHXxQMh8?si=F9rRlsutF3N6uaHS​) - [QCM](./2024/qcm/adapterQcm.pdf) - [fiche résumé](./2024/resume/adapterResume.pdf)|
 
 | Composite   |  Documentation |  
-| :---    |  :---:    |  
+| :---    |  :---:    |
+|Automne 2025   | [présentation](./2025/presentation/composite.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](https://kahoot.it/?pin=8917731&refer_method=link) - [fiche résumé](./2025/resume/compositeResume.pdf)|
 |Automne 2024   | [présentation](./2024/presentation/composite.pdf)  - [live_coding](https://youtu.be/fqycG1CbzzU) - [QCM](https://kahoot.it/?pin=8917731&refer_method=link) - [fiche résumé](./2024/resume/compositeResume.pdf)|
 
 | Decorator   |  Documentation |  
-| :---    |  :---:    |  
+| :---    |  :---:    |
+|Automne 2025   | [présentation](./2025/presentation/decorator.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2025/qcm/decoratorQcm.pdf) - [fiche résumé](./2025/resume/decoratorResume.pdf)|
 |Automne 2024   | [présentation](./2024/presentation/decorator.pdf)  - [live_coding](https://youtu.be/sgY1kBWwFQg) - [QCM](./2024/qcm/decoratorQcm.pdf) - [fiche résumé](./2024/resume/decoratorResume.pdf)|
+
+| Proxy   |  Documentation |  
+| :---    |  :---:    |
+|Automne 2025   | [présentation](./2025/presentation/proxy.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2025/qcm/decoratorQcm.pdf) - [fiche résumé](./2025/resume/proxyResume.pdf)|
 
 ### Patrons de comportement (GoF)
 
 | Command   |  Documentation |  
 | :---    |  :---:    |  
+|Automne 2025   | [présentation](./2025/presentation/command.pdf)  - [live_coding](lien_vers_votre_video_youtube)- [QCM](./2025/qcm/commandQcm.pdf) - [fiche résumé](./2025/resume/commandResume.pdf)|
 |Automne 2024   | [présentation](./2024/presentation/command.pdf)  - [live_coding](https://youtu.be/qAG1jGon5Z8?si=gt5SrPc2MkfZMEvv) - [QCM](./2024/qcm/commandQcm.pdf) - [fiche résumé](./2024/resume/commandResume.pdf)|
 
 | Observer   |  Documentation |  
 | :---    |  :---:   |  
+|Automne 2025   | [présentation](./2025/presentation/observer.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2025/qcm/observerQcm.pdf) - [fiche résumé](./2025/resume/observerResume.pdf)|
 |Automne 2024   | [présentation](./2024/presentation/observer.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2024/qcm/observerQcm.pdf) - [fiche résumé](./2024/resume/observerResume.pdf)|
 
 | State    |  Documentation |  
 | :---    |  :---:    |  
+|Automne 2025   | [présentation](./2025/presentation/state.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2025/qcm/stateQcm.pdf) - [fiche résumé](./2025/resume/stateResume.pdf)|
 |Automne 2024   | [présentation](./2024/presentation/state.pdf)  - [live_coding](https://www.youtube.com/watch?v=c78Uzo8vYwI) - [QCM](./2024/qcm/stateQcm.pdf) - [fiche résumé](./2024/resume/stateResume.pdf)|
 
 | Strategy   |  Documentation |  
-| :---    |  :---:    |
+| :---    |  :---:    |  
+|Automne 2025   | [présentation](./2025/presentation/strategy.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2025/qcm/strategyQcm.pdf) - [fiche résumé](./2025/resume/strategyResume.pdf)|
 |Automne 2024   | [présentation](./2024/presentation/strategy.pdf)  - [live_coding](https://youtu.be/AKBGRT1PBaA) - [QCM](./2024/qcm/strategyQcm.pdf) - [fiche résumé](./2024/resume/strategyResume.pdf)|
 
 |Visitor    |  Documentation |  
 | :---    |  :---:    |  
+|Automne 2025   | [présentation](./2025/presentation/visitor.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2025/qcm/visitorQcm.pdf) - [fiche résumé](./2025/resume/visitorResume.pdf)|
 |Automne 2024   | [présentation](./2024/presentation/visitor.pdf)  - [live_coding](https://www.youtube.com/watch?v=5OFwM5sv07M) - [QCM](./2024/qcm/visitorQcm.pdf) - [fiche résumé](./2024/resume/visitorResume.pdf)|
 
 ## Autres
 
 | Value Object - Entity -  Agrégat |  Documentation |  
 | :---      |  :---:    |  
+|Automne 2025   | [présentation](./22025/presentation/DDDTechnique.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2025/qcm/DDDTechniqueQcm.pdf) - [fiche résumé](./2025/resume/DDDTechniqueResume.pdf)|
 |Automne 2024   | [présentation](./2024/presentation/DDDTechnique.pdf)  - [live_coding](https://youtu.be/_9pvESpzz50) - [QCM](./2024/qcm/DDDTechniqueQcm.pdf) - [fiche résumé](./2024/resume/DDDTechniqueResume.pdf)|
 
 | Null pour les nuls  |  Documentation |  
-| :---      |  :---:    |
+| :---      |  :---:    |  
+|Automne 2025   | [présentation](./2025/presentation/null.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2025/qcm/nullQcm.pdf) - [fiche résumé](./2025/resume/nullResume.pdf)|
 |Automne 2024   | [présentation](./2024/presentation/null.pdf)  - [live_coding](https://www.youtube.com/watch?v=ONVoQvROG5s) - [QCM](./2024/qcm/nullQcm.pdf) - [fiche résumé](./2024/resume/nullResume.pdf)|
 
 | Vers un code immutable (pourquoi ? comment ?) |  Documentation |  
 | :---           |  :---:    |  
-|Automne 2024   | [présentation](./2024/presentation/immutable.pdf)  - [live_coding](https://www.youtube.com/watch?v=dl6xjPjFgeM) - [QCM](./2024/qcm/immutableQcm.pdf) - [fiche résumé](./2024/resume/immutableResume.pdf)|
+|Automne 2025   | [présentation](./2025/presentation/immutable.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2025/qcm/immutableQcm.pdf) - [fiche résumé](./2025/resume/immutableResume.pdf)|
+|Automne 2024   | [présentation](./2024/presentation/immutable.pdf)  - [live_coding](https://www.youtube.com/watch?v=dl6xjPjFgeM) - [QCM](./2024/qcm/immutableQcm.pdf) - [fiche résumé](./2024/resume/immutableResume.pdf)|  
+
+| Agentic Programming (IA)|   Documentation |
+| :---           |  :---:    |
+|Automne 2025   | [présentation](./2025/presentation/agenticAI.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2025/qcm/agenticAIQcm.pdf) - [fiche résumé](./2025/resume/agenticIAIResume.pdf)|
 
 <!-- 
 | Design			|  Documentation |  

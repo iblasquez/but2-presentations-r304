@@ -33,7 +33,7 @@
 
 | Decorator   |  Documentation |  
 | :---    |  :---:    |
-|Automne 2025   | [présentation](./2025/presentation/decorator.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2025/qcm/decoratorQcm.pdf) - [fiche résumé](./2025/resume/decoratorResume.pdf)|
+|Automne 2025   | [présentation](./2025/presentation/decorator.pdf)  - [live_coding](https://www.youtube.com/watch?v=BDF1Z5FMNA0) - [QCM](./2025/qcm/decoratorQcm.pdf) - [fiche résumé](./2025/resume/decoratorResume.pdf)|
 |Automne 2024   | [présentation](./2024/presentation/decorator.pdf)  - [live_coding](https://youtu.be/sgY1kBWwFQg) - [QCM](./2024/qcm/decoratorQcm.pdf) - [fiche résumé](./2024/resume/decoratorResume.pdf)|
 
 | Proxy   |  Documentation |  

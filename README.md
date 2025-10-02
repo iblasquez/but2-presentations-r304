@@ -16,7 +16,7 @@
 
 | Builder    |  Documentation |  
 | :---    |  :---:    |
-|Automne 2025   | [présentation](./2025/presentation/builder.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2025/qcm/builderQcm.pdf) - [fiche résumé](./2025/resume/builderResume.pdf)|  
+|Automne 2025   | [présentation](./2025/presentation/builder.pdf)  - [live_coding](https://www.youtube.com/watch?v=mmWmOCRjCxE) - [QCM](./2025/qcm/builderQcm.pdf) - [fiche résumé](./2025/resume/builderResume.pdf)|  
 |Automne 2024   | [présentation](./2024/presentation/builder.pdf)  - [live_coding](https://www.youtube.com/watch?v=fyB9his5rGM) - [QCM](./2024/qcm/builderQcm.pdf) - [fiche résumé](./2024/resume/builderResume.pdf)|  
 
 ### Patrons de structure (GoF)

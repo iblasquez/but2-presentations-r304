@@ -28,7 +28,7 @@
 
 | Composite   |  Documentation |  
 | :---    |  :---:    |
-|Automne 2025   | [présentation](./2025/presentation/composite.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](https://kahoot.it/?pin=8917731&refer_method=link) - [fiche résumé](./2025/resume/compositeResume.pdf)|
+|Automne 2025   | [présentation](./2025/presentation/composite.pdf)  - [live_coding](https://youtu.be/VJf8pAqYAxk) - [QCM](./2025/qcm/compositeQCM.pdf) - [fiche résumé](./2025/resume/compositeResume.pdf)|
 |Automne 2024   | [présentation](./2024/presentation/composite.pdf)  - [live_coding](https://youtu.be/fqycG1CbzzU) - [QCM](https://kahoot.it/?pin=8917731&refer_method=link) - [fiche résumé](./2024/resume/compositeResume.pdf)|
 
 | Decorator   |  Documentation |  

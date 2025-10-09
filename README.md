@@ -59,7 +59,7 @@
 
 | Strategy   |  Documentation |  
 | :---    |  :---:    |  
-|Automne 2025   | [présentation](./2025/presentation/strategy.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2025/qcm/strategyQcm.pdf) - [fiche résumé](./2025/resume/strategyResume.pdf)|
+|Automne 2025   | [présentation](./2025/presentation/strategy.pdf)  - [live_coding](https://youtu.be/cOK4RtvWftQ) - [QCM](./2025/qcm/strategyQcm.pdf) - [fiche résumé](./2025/resume/strategyResume.pdf)|
 |Automne 2024   | [présentation](./2024/presentation/strategy.pdf)  - [live_coding](https://youtu.be/AKBGRT1PBaA) - [QCM](./2024/qcm/strategyQcm.pdf) - [fiche résumé](./2024/resume/strategyResume.pdf)|
 
 |Visitor    |  Documentation |  

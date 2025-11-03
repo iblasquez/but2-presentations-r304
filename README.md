@@ -44,7 +44,7 @@
 
 | Command   |  Documentation |  
 | :---    |  :---:    |  
-|Automne 2025   | [présentation](./2025/presentation/command.pdf)  - [live_coding](lien_vers_votre_video_youtube)- [QCM](./2025/qcm/commandQcm.pdf) - [fiche résumé](./2025/resume/commandResume.pdf)|
+|Automne 2025   | [présentation](./2025/presentation/command.pdf)  - [live_coding](https://www.youtube.com/watch?v=A5uaFSoVbf4)- [QCM](./2025/qcm/commandQcm.pdf) - [fiche résumé](./2025/resume/commandResume.pdf)|
 |Automne 2024   | [présentation](./2024/presentation/command.pdf)  - [live_coding](https://youtu.be/qAG1jGon5Z8?si=gt5SrPc2MkfZMEvv) - [QCM](./2024/qcm/commandQcm.pdf) - [fiche résumé](./2024/resume/commandResume.pdf)|
 
 | Observer   |  Documentation |  

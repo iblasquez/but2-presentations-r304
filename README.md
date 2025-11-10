@@ -49,7 +49,7 @@
 
 | Observer   |  Documentation |  
 | :---    |  :---:   |  
-|Automne 2025   | [présentation](./2025/presentation/observer.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2025/qcm/observerQcm.pdf) - [fiche résumé](./2025/resume/observerResume.pdf)|
+|Automne 2025   | [présentation](./2025/presentation/observer.pdf)  - [live_coding](https://www.youtube.com/watch?si=K0fRZmxJ7jqvU-0B&v=dOdlml7lsgI&feature=youtu.be) - [QCM](./2025/qcm/observerQcm.pdf) - [fiche résumé](./2025/resume/observerResume.pdf)|
 |Automne 2024   | [présentation](./2024/presentation/observer.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2024/qcm/observerQcm.pdf) - [fiche résumé](./2024/resume/observerResume.pdf)|
 
 | State    |  Documentation |  

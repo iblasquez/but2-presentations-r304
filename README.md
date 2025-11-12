@@ -38,7 +38,7 @@
 
 | Proxy   |  Documentation |  
 | :---    |  :---:    |
-|Automne 2025   | [présentation](./2025/presentation/proxy.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2025/qcm/decoratorQcm.pdf) - [fiche résumé](./2025/resume/proxyResume.pdf)|
+|Automne 2025   | [présentation](./2025/presentation/proxy.pdf)  - [live_coding](https://youtu.be/dZrcWYJIcro?si=D4hcgNhAV7sUoOHw) - [QCM](./2025/qcm/proxyQcm.pdf) - [fiche résumé](./2025/resume/proxyResume.pdf)|
 
 ### Patrons de comportement (GoF)
 

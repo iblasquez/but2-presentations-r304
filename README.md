@@ -86,7 +86,7 @@
 
 | Agentic Programming (IA)|   Documentation |
 | :---           |  :---:    |
-|Automne 2025   | [présentation](./2025/presentation/agenticAI.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2025/qcm/agenticAIQcm.pdf) - [fiche résumé](./2025/resume/agenticIAIResume.pdf)|
+|Automne 2025   | [présentation](./2025/presentation/agenticAI.pdf)  - [live_coding]([lien_vers_votre_video_youtube](https://www.youtube.com/watch?v=fqk71xvNwGM)) - [QCM](./2025/qcm/agenticAIQcm.pdf) - [fiche résumé](./2025/resume/agenticIAIResume.pdf)|
 
 <!-- 
 | Design			|  Documentation |  

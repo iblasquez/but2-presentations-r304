@@ -66,7 +66,7 @@
 
 | Strategy          |  Documentation    |  
 | :---              |  :---:            |  
-|Automne 2026       | [présentation](./2026/presentation/strategy.pdf)  - [live_coding](https://youtu.be/STdNHR7pEhQ) - [QCM](./2026/qcm/strategyQcm.pdf) - [fiche résumé](./2026/resume/strategyResume.pdf)|
+|Automne 2026       | [présentation](./2026/presentation/strategy.pdf)  - [live_coding](https://youtu.be/STdNHR7pEhQ) - [QCM](./2026/qcm/strategyQCM.pdf) - [fiche résumé](./2026/resume/strategyResume.pdf)|
 |Automne 2025       | [présentation](./2025/presentation/strategy.pdf)  - [live_coding](https://youtu.be/cOK4RtvWftQ) - [QCM](./2025/qcm/strategyQcm.pdf) - [fiche résumé](./2025/resume/strategyResume.pdf)|
 |Automne 2024       | [présentation](./2024/presentation/strategy.pdf)  - [live_coding](https://youtu.be/AKBGRT1PBaA) - [QCM](./2024/qcm/strategyQcm.pdf) - [fiche résumé](./2024/resume/strategyResume.pdf)|
 

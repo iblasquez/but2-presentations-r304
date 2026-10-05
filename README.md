@@ -16,7 +16,7 @@
 
 | Builder           |  Documentation |  
 | :---              |  :---:         |  
-|Automne 2026       | [présentation](./2026/presentation/design.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2026/qcm/designQcm.pdf) - [fiche résumé](./2026/resume/designResume.pdf)|  
+|Automne 2026       | [présentation](./2026/presentation/builder.pdf)  - [live_coding](https://youtu.be/O8-RMoZ6NNU) - [QCM](./2026/qcm/builderQcm.pdf) - [fiche résumé](./2026/resume/builderResume.pdf)|  
 |Automne 2025       | [présentation](./2025/presentation/builder.pdf)  - [live_coding](https://www.youtube.com/watch?v=mmWmOCRjCxE) - [QCM](./2025/qcm/builderQcm.pdf) - [fiche résumé](./2025/resume/builderResume.pdf)|  
 |Automne 2024       | [présentation](./2024/presentation/builder.pdf)  - [live_coding](https://www.youtube.com/watch?v=fyB9his5rGM) - [QCM](./2024/qcm/builderQcm.pdf) - [fiche résumé](./2024/resume/builderResume.pdf)|  
 

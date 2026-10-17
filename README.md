@@ -84,7 +84,7 @@
 
 | Java Moderne (écrire du code plus robuste & concis)   |  Documentation    |  
 | :---                                                  |  :---:            |  
-|Automne 2026                                           | [présentation](./2026/presentation/design.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2026/qcm/designQcm.pdf) - [fiche résumé](./2026/resume/designResume.pdf)|  
+|Automne 2026                                           | [présentation](./2026/presentation/javaModerne.pdf)  - [live_coding](https://www.youtube.com/watch?v=AnBnjiJFLWc) - [QCM](./2026/qcm/javaModerneQcm.pdf) - [fiche résumé](./2026/resume/javaModerneResume.pdf)|  
 
 | Null pour les nuls                |  Documentation    |  
 | :---                              |  :---:            |  

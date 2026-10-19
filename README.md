@@ -80,7 +80,7 @@
 
 | Vers un code immuable & pattern Value Object (DDD)    |  Documentation    |  
 | :---                                                  |  :---:            |  
-|Automne 2026                                           | [présentation](./2026/presentation/design.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2026/qcm/designQcm.pdf) - [fiche résumé](./2026/resume/designResume.pdf)|  
+|Automne 2026                                           | [présentation](./2026/presentation/immuable.pdf)  - [live_coding](https://youtu.be/kU3VUQKx54c) - [QCM](./2026/qcm/immuableQCM.pdf) - [fiche résumé](./2026/resume/immuableResume.pdf)|  
 
 | Java Moderne (écrire du code plus robuste & concis)   |  Documentation    |  
 | :---                                                  |  :---:            |  

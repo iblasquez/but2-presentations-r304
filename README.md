@@ -24,7 +24,7 @@
 
 | Adapter/Facade    |  Documentation    |  
 | :---              |  :---:            |  
-|Automne 2026       | [présentation](./2026/presentation/design.pdf)  - [live_coding](https://youtu.be/5EgHXNFA1Xw) - [QCM](./2026/qcm/designQcm.pdf) - [fiche résumé](./2026/resume/designResume.pdf)|  
+|Automne 2026       | [présentation](./2026/presentation/Adapter_FacadePowerPoint.pdf)  - [live_coding](https://youtu.be/5EgHXNFA1Xw) - [QCM](./2026/qcm/AdapterFacadeQCM.pdf) - [fiche résumé](./2026/resume/Fiche_Resume_Adapter_Facade.pdf)|  
 |Automne 2025       | [présentation](./2025/presentation/adapter.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2025/qcm/adapterQcm.pdf) - [fiche résumé](./2025/resume/adapterResume.pdf)|
 |Automne 2024       | [présentation](./2024/presentation/adapter.pdf)  - [live_coding](https://youtu.be/JyvRHXxQMh8?si=F9rRlsutF3N6uaHS​) - [QCM](./2024/qcm/adapterQcm.pdf) - [fiche résumé](./2024/resume/adapterResume.pdf)|
 

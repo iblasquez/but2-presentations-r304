@@ -54,7 +54,7 @@
 
 | Observer          |  Documentation    |  
 | :---              |  :---:            |  
-|Automne 2026       | [présentation](./2026/presentation/design.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2026/qcm/designQcm.pdf) - [fiche résumé](./2026/resume/designResume.pdf)|  
+|Automne 2026       | [présentation](./2026/presentation/observer.pdf)  - [live_coding](https://youtu.be/ulRdYFMtV20) - [QCM](./2026/qcm/observerQcm.pdf) - [fiche résumé](./2026/resume/designResume.pdf)|  
 |Automne 2025       | [présentation](./2025/presentation/observer.pdf)  - [live_coding](https://www.youtube.com/watch?si=K0fRZmxJ7jqvU-0B&v=dOdlml7lsgI&feature=youtu.be) - [QCM](./2025/qcm/observerQcm.pdf) - [fiche résumé](./2025/resume/observerResume.pdf)|
 |Automne 2024       | [présentation](./2024/presentation/observer.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2024/qcm/observerQcm.pdf) - [fiche résumé](./2024/resume/observerResume.pdf)|
 
